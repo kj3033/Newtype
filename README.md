@@ -26,6 +26,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-21-GitHub-Actions를-이용한-TIL-자동화-구축](ai-agent/2026-03-21-GitHub-Actions를-이용한-TIL-자동화-구축.md)
+
 - [2026-03-21-에이전트-커머스의-진화와-자율-자원-조달](ai-agent/2026-03-21-에이전트-커머스의-진화와-자율-자원-조달.md)
 
 - [2026-03-21-Claude-Code-Channels-양방향-브릿지-설정](ai-agent/2026-03-21-Claude-Code-Channels-양방향-브릿지-설정.md)
