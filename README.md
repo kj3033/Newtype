@@ -10,6 +10,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-03-23-n8n-HTTP-Request-봇-탐지-우회-전략](n8n/2026-03-23-n8n-HTTP-Request-봇-탐지-우회-전략.md)
+
 - [2026-03-21-n8n-트리거-노드-확장성-분석](n8n/2026-03-21-n8n-트리거-노드-확장성-분석.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
