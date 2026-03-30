@@ -10,6 +10,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-03-30-ipTIME-NAS-도커-시스템-복구-매뉴얼](n8n/2026-03-30-ipTIME-NAS-도커-시스템-복구-매뉴얼.md)
+
 - [2026-03-28-n8n에서-null-값-처리하기](n8n/2026-03-28-n8n에서-null-값-처리하기.md)
 
 - [2026-03-23-n8n-HTTP-Request-봇-탐지-우회-전략](n8n/2026-03-23-n8n-HTTP-Request-봇-탐지-우회-전략.md)
