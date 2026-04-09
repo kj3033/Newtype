@@ -26,6 +26,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-04-09-파이썬-가비지-컬렉션을-통한-IO-병목-해결](python/2026-04-09-파이썬-가비지-컬렉션을-통한-IO-병목-해결.md)
+
 - [2026-03-21-FFmpeg-메모리-사용량-최적화](python/2026-03-21-FFmpeg-메모리-사용량-최적화.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
