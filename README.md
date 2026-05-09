@@ -10,6 +10,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-05-10-n8n-MCP-서버-연동-통신-에러-해결](n8n/2026-05-10-n8n-MCP-서버-연동-통신-에러-해결.md)
+
 - [2026-04-25-n8n-Gemini-API-const-스키마-에러-해결](n8n/2026-04-25-n8n-Gemini-API-const-스키마-에러-해결.md)
 
 - [2026-04-02-도커-볼륨-WebDAV-공유-주의사항](n8n/2026-04-02-도커-볼륨-WebDAV-공유-주의사항.md)
