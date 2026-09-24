@@ -40,6 +40,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-09-24-로또-1243회차-데이터-분석-및-조합-전략](ai-agent/2026-09-24-로또-1243회차-데이터-분석-및-조합-전략.md)
+
 - [2026-03-21-OpenClaw-에이전트-자율성-최적화](ai-agent/2026-03-21-OpenClaw-에이전트-자율성-최적화.md)
 
 - [2026-03-21-GitHub-Actions를-이용한-TIL-자동화-구축](ai-agent/2026-03-21-GitHub-Actions를-이용한-TIL-자동화-구축.md)
